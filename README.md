@@ -1,9 +1,11 @@
 # lightline-material-monokai
-A lightline theme based on material monokai
+A lightline theme based on the material monokai theme for vim / iterm.
 
 Influenced by `skielbasa/vim-material-monokai`
 
-Theme features a very prominent insert mode and always colours both sides of the status line when it is active, so it is always clear which split is active and which mode you are in. The tab line is also styled so the active tab uses the background colour of the terminal, so it actually looks like a tab.
+This theme features a very prominent insert mode and always colours both sides of the status line when it is active, so it is always clear which split is active and which mode you are in.
+
+The tab line is also styled so the active tab uses the background colour of the terminal, so it actually looks like a tab.
 
 ## Installation
 
