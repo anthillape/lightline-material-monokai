@@ -9,7 +9,7 @@ Theme features a very prominent insert mode and always colours both sides of the
 
 Install using your fave plugin manager, eg with vim-plug:
 
-`Plug·'anthillape/lightline-material-monokai'`
+`Plug 'anthillape/lightline-material-monokai'`
 
 Activate in your vim config with
 
