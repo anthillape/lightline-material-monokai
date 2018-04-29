@@ -18,5 +18,5 @@ Activate in your vim config with
 ```
 let g:lightline = {
   \ 'colorscheme': 'monokai_material'
-	\ }
+  \ }
 ```
